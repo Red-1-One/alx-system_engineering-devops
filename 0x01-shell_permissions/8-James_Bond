@@ -1,2 +1,2 @@
-#!/bin/bas
-chmod 007 helloh
+#!/bin/bash
+chmod 007 hello
